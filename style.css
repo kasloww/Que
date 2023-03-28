@@ -1,4 +1,8 @@
 body {
     background-color:black;
-    color: darkgray;
+    color: rgba(0, 115, 255, 0.61);
+}
+
+h5 {
+    color:rgb(255, 0, 0);
 }
