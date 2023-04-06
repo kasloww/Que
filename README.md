@@ -1,2 +1,2 @@
 # Que
-just a information website.
+just a website about the NBA.
