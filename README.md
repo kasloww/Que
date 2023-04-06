@@ -1,2 +1,2 @@
-# Que.github.io
+# Que
 just a website about the NBA.
